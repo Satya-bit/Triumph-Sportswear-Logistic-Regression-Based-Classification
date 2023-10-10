@@ -1,5 +1,8 @@
 # Triumph-Sportswear-Logistic-Regression-Based-Classification
 
+![image](https://github.com/Satya-bit/Triumph-Sportswear-Logistic-Regression-Based-Classification/assets/70309925/af550b72-ccf0-4eed-8dfb-88bcdde99e15)
+
+
 **=>Introduction**
 
 Triumph as a company has two business model wherein they sell their products directly to
